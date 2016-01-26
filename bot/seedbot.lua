@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    ssudo_users = {94746365,144658773,114934518,112707993},--Sudo users                               
+    sudo_users = {94746365,144658773,114934518,112707993},--Sudo users                               
   disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
